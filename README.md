@@ -1,5 +1,10 @@
 # Portfolio
 
+Project Objective
+--------
+- The problem this project solves is to determine how the offense should act based on the pre-snap behavior and when they are in the redzone
+- Useful for NFL offensive coordinators and quarterbacks who want to be able to read the defense and adjust their game plan accordingly
+  
 Cleaning
 --------
 - Deleted gameId, quarter, down, playNullifiedByPenalty, preSnapHomeScore, preSnapVisitorScore, possessionTeam, defensiveteam, yardlineSide, gameClock, targetX, targetY, preSnapHomeWinProbabaility, preSnapVisitorWinProbability, expectedPoints, playClockAtSnap, dropbackDistance, timeToThrow, timeInTackleBox, timeToSack, passTippedAtLine, penaltyYards, prePenaltyYardsGained, homeTeamWinProbabilityAdded, visitorTeamWinProbabilityAdded, expectedPointsAdded, qbSpike, qbKneel, plays where ball is spiked, and plays where ball is kneeled
